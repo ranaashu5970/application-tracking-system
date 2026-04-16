@@ -35,3 +35,33 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) Application Tracking 
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/ranaashu5970/application-tracking-system.git
+
+2️⃣ Install dependencies
+Client
+Bash
+
+cd client
+npm install
+npm start
+Server
+Bash
+
+cd server
+npm install
+npm start
+
+
+🌐 Future Improvements
+Add Resume Upload Feature
+
+Improve UI/UX
+
+Add Notifications System
+
+Deploy on Cloud (Render/Vercel)
+
+👤 Author
+Ashu 
+
+GitHub: https://github.com/ranaashu5970
+
